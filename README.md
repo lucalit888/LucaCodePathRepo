@@ -1,4 +1,4 @@
-# TipWise*
+# TipWise
 
 **TipWise** is a tip calculator application for iOS.
 
